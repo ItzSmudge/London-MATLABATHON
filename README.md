@@ -63,7 +63,8 @@ cd London-MATLABATHON
 
 ```text
 ExampleData.mat        % Contains Position and Acceleration timetables
-trainedModelNN.mat     % For activity classification (or)
-trainedModel5.mat
+T2_training_data.m     % Code for training a model with the provided data
+modelHighAccuracy.mat  % Model for activity classification (or)
+
 ```
-4. Run 
+4. **Run the file T2_Fitness_Tracker.m which contains all the modular functions of the fitness tracker, that can be run individually**
