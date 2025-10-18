@@ -53,9 +53,9 @@ This project is a **MATLAB-based Fitness & Activity Tracker** that leverages **s
 ### Installation and Setup
 1. Clone the repository:
 ```bash
-git clone [Your Repository URL Here]
-cd health-wellness-tracking-suite```
-
+git clone London-MATLABATHON
+cd London-MATLABATHON
+```
 
 2. **Open MATLAB and navigate to the project directory**.
 
@@ -65,3 +65,5 @@ cd health-wellness-tracking-suite```
 ExampleData.mat        % Contains Position and Acceleration timetables
 trainedModelNN.mat     % For activity classification (or)
 trainedModel5.mat
+```
+4. Run 
